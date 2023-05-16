@@ -21,7 +21,11 @@ const quinn = {
     ambition: "Always in a need to explore, discover, and learn more.",
     perfectionistic: "It's a blessing and a curse."
   },
-  currentFoci: "Clarify what dreams I want to follow."
+  currentFoci: [
+    "Improving my React and Next.js knowledge and skills.",
+    "Getting into back-end development.",
+    "Clarifying what dreams I want to follow.",
+  ]
 }
 ```
 
@@ -32,4 +36,4 @@ const quinn = {
 
 - ✨ I'm a student at Bit Academy. An aspiring Software Developer who's always eager to explore beyond the boundaries!
 - 💖 Nintendo's my passion! Don't even get me started on how incredibly much I love Pokémon!
-- 🥪 I do have an exceptional love for grilled cheese sandwiches!
+- 🥪 As some might know, I do have an exceptional love for grilled cheese sandwiches!
