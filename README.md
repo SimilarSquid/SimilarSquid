@@ -8,7 +8,10 @@
 <p><em>
   > Student Software Developer at <a href="https://www.linkedin.com/school/bit-academy-nl/">Bit Academy</a> / <a href="https://www.linkedin.com/school/noorderpoort/">Noorderpoort</a></br>
   > Known as that introverted, intuitive, thinking, and prospecting being_
-  </em></p>
+</em></p>
+
+![LinkedIn: quinntrip](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/quinntrip/)
+
   
 </br>
 
