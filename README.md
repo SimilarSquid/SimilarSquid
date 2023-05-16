@@ -3,7 +3,7 @@
   <img
        src="assets/zorua.gif"
        width="64"
-       style="position: relative; top: 1rem; right: .5rem; z-index: -1;">
+       style="position: relative; top: 1rem; right: .5rem;">
 </h2>
 <p><em>Student Software Developer at <a href="https://www.linkedin.com/school/bit-academy-nl/">Bit Academy</a></em></p>
 
