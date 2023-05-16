@@ -10,7 +10,7 @@
   > Known as that introverted, intuitive, thinking, and prospecting being_
 </em></p>
 
-![LinkedIn: quinntrip](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/quinntrip/)
+[![LinkedIn: quinntrip](https://img.shields.io/badge/-LinkedIn-FF008F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quinntrip/)
 
   
 </br>
