@@ -5,9 +5,12 @@
        width="64"
        style="position: relative; top: 1rem; right: .5rem;">
 </h2>
-<p><em>Student Software Developer at <a href="https://www.linkedin.com/school/bit-academy-nl/">Bit Academy</a></em></p>
-
-<br>
+<p><em>
+  > Student Software Developer at <a href="https://www.linkedin.com/school/bit-academy-nl/">Bit Academy</a> / <a href="https://www.linkedin.com/school/noorderpoort/">Noorderpoort</a></br>
+  > Known as that introverted, intuitive, thinking, and prospecting being_
+  </em></p>
+  
+</br>
 
 <h3>Who am I, exactly?</h3>
 
@@ -29,7 +32,7 @@ const quinn = {
 }
 ```
 
-<br>
+</br>
 
 <h3>Seems like you've stumbled onto the undermost section of my profile!</h3>
 <p><em>Well, I better tell you just a bit more about myself, huh?</em></p>
