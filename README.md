@@ -6,40 +6,64 @@
        style="position: relative; top: .75rem; right: .5rem;">
 </h2>
 <p><em>
-  > Student Software Developer at <a href="https://www.linkedin.com/school/bit-academy-nl/">Bit Academy</a> / <a href="https://www.linkedin.com/school/noorderpoort/">Noorderpoort</a></br>
-  > Known as that introverted, intuitive, thinking, and prospecting being_
+  > An aspiring Student Software Developer at <a href="https://www.linkedin.com/school/bit-academy-nl/">Bit Academy</a> / <a href="https://www.linkedin.com/school/noorderpoort/">Noorderpoort</a>.</br>
+  > Always eager to explore beyond the boundaries.</br>
+  > Known as that introverted, intuitive, thinking, and prospecting being.
 </em></p>
 
 [![LinkedIn: quinntrip](https://img.shields.io/badge/-LinkedIn-FF008F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quinntrip/)
 
-  
+
 </br>
 
-<h3>Who am I, exactly?</h3>
+<table>
+  <tr>
+    <th>&#128462;</th>
+    <th>about.js</th>
+  </tr>
+</table>
 
 ```javascript
 const quinn = {
-  pronouns: "he" | "they",
-  code: [JavaScript, TypeScript, HTML, CSS, PHP, Python, Lua],
-  stash: [React, Next.js, Node, Tailwind, Sass, MySQL],
+  pronouns: "He" | "They",
+  interests: [Nintendo, GrilledCheese, Development],
   traits: {
     curios: "Curiosity is always at its strongest.",
     ambition: "Always in a need to explore, discover, and learn more.",
     perfectionistic: "It's a blessing and a curse."
-  },
-  currentFoci: [
-    "Improving my React and Next.js knowledge and skills.",
-    "Getting into back-end development.",
-    "Clarifying what dreams I want to follow.",
-  ]
-}
+  }
+};
+
+export default quinn;
 ```
 
 </br>
 
-<h3>Seems like you've stumbled onto the undermost section of my profile!</h3>
-<p><em>Well, I better tell you just a bit more about myself, huh?</em></p>
+<table>
+  <tr>
+    <th>&#128448;</th>
+    <th>languages</th>
+  </tr>
+</table>
 
-- ✨ I'm a student at Bit Academy. An aspiring Software Developer who's always eager to explore beyond the boundaries!
-- 💖 Nintendo's my passion! Don't even get me started on how incredibly much I love Pokémon!
-- 🥪 As some might know, I do have an exceptional love for grilled cheese sandwiches!
+![](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=000&labelColor=F7DF1E)
+![](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=FFF&labelColor=3178C6)
+![](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php&logoColor=FFF&labelColor=777BB4)
+![](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=FFF&labelColor=4479A1)
+![](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=FFF&labelColor=3776AB)
+![](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua&logoColor=FFF&labelColor=2C2D72)
+
+</br>
+
+<table>
+  <tr>
+    <th>&#128448;</th>
+    <th>technologies</th>
+  </tr>
+</table>
+
+![](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=FFF&labelColor=61DAFB)
+![](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=000&labelColor=FFF)
+![](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=FFF&labelColor=339933)
+![](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=FFF&labelColor=06B6D4)
+![](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass&logoColor=FFF&labelColor=CC6699)
