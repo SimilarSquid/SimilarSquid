@@ -6,6 +6,7 @@
        style="position: relative; top: .75rem; right: .5rem;">
 </h2>
 
+</br>
 
 <table>
   <tr>
@@ -14,26 +15,26 @@
   </tr>
   
   <tr>
-
   </tr>
-  
   
   <tr>
     <td>
     </td>
     <td>
-<p>
-  $ node introduction.js</br>
-  &nbsp;&nbsp;> An aspiring Student Software Developer at <a href="https://www.linkedin.com/school/bit-academy-nl/">Bit Academy</a> / <a href="https://www.linkedin.com/school/noorderpoort/">Noorderpoort</a>.</br>
-  &nbsp;&nbsp;> Always eager to explore beyond the boundaries.</br>
-  &nbsp;&nbsp;> Known as that introverted, intuitive, thinking, and prospecting being.
-</p>
-</td>
-</tr>
+      <p>
+        $ node introduction.js</br>
+        &nbsp;&nbsp;> An aspiring Student Software Developer at <a href="https://www.linkedin.com/school/bit-academy-nl/">Bit Academy</a> / <a href="https://www.linkedin.com/school/noorderpoort/">Noorderpoort</a>.</br>
+        &nbsp;&nbsp;> Always eager to explore beyond the boundaries.</br>
+        &nbsp;&nbsp;> Known as that introverted, intuitive, thinking, and prospecting being.</br>
+        $ _
+      </p>
+    </td>
+  </tr>
 </table>
 
-[![LinkedIn: quinntrip](https://img.shields.io/badge/-LinkedIn-FF008F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quinntrip/)
+</br>
 
+[![LinkedIn: quinntrip](https://img.shields.io/badge/-LinkedIn-FF008F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quinntrip/)
 
 </br>
 
