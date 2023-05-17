@@ -9,7 +9,7 @@
 
 <table>
   <tr>
-    <th>&#128462;</th>
+    <th>&lt;/&gt;</th>
     <th align="left">SimilarSquid@GitHub ~</th>
   </tr>
   
