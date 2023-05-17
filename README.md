@@ -1,5 +1,5 @@
 <h2>
-  Hi, I'm Quinn!
+  <span style="position: relative; z-index: 1;">Hi, I'm Quinn!</span>
   <img
        src="assets/zorua.gif"
        width="64"
