@@ -34,10 +34,6 @@
 
 </br>
 
-[![LinkedIn: quinntrip](https://img.shields.io/badge/-LinkedIn-FF008F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quinntrip/)
-
-</br>
-
 <table>
   <tr>
     <th>&#128462;</th>
@@ -89,3 +85,14 @@ export default quinn;
 ![](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=FFF&labelColor=339933)
 ![](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=FFF&labelColor=06B6D4)
 ![](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass&logoColor=FFF&labelColor=CC6699)
+
+</br>
+
+<table>
+  <tr>
+    <th>&#128448;</th>
+    <th>contact</th>
+  </tr>
+</table>
+
+[![LinkedIn: quinntrip](https://img.shields.io/badge/-LinkedIn-FF008F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quinntrip/)
