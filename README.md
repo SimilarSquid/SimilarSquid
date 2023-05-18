@@ -90,9 +90,34 @@ export default quinn;
 
 <table>
   <tr>
-    <th>&#128448;</th>
-    <th>contact</th>
+    <th>&#128462;</th>
+    <th>contact.csv</th>
+    <th></th>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>1</td>
+    <th align="left">Method</th>
+    <th align="left">Path</th>
+  </tr>
+  
+  <tr>
+    <td>2</td>
+    <td>LinkedIn</td>
+    <td><a href="https://www.linkedin.com/in/quinntrip/" target="_blank">/in/quinntrip/</a></td>
+  </tr>
+  
+  <tr>
+    <td>3</td>
+    <td>Email</td>
+    <td><a href="mailto:****@domain.com?subject=GitHub Contact" target="_blank">****@domain.com</a> (Actual adress available soon!)</td>
   </tr>
 </table>
 
-[![LinkedIn: quinntrip](https://img.shields.io/badge/-LinkedIn-FF008F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quinntrip/)
+
