@@ -116,7 +116,7 @@ export default quinn;
   <tr>
     <td>3</td>
     <td>Email</td>
-    <td><a href="mailto:****@domain.com?subject=GitHub Contact" target="_blank">****@domain.com</a> (Actual adress available soon!)</td>
+    <td><a href="mailto:****@domain.com?subject=GitHub Contact" target="_blank">****@domain.com</a> (Actual address available soon!)</td>
   </tr>
 </table>
 
