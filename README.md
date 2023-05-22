@@ -47,7 +47,7 @@ const quinn = {
   interests: [Nintendo, GrilledCheese, Development],
   traits: {
     curios: "Curiosity is always at its strongest.",
-    ambition: "Always in a need to explore, discover, and learn more.",
+    ambitious: "Always in a need to explore, discover, and learn more.",
     perfectionistic: "It's a blessing and a curse."
   }
 };
