@@ -70,6 +70,8 @@ export default quinn;
 ![](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=FFF&labelColor=4479A1)
 ![](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=FFF&labelColor=3776AB)
 ![](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua&logoColor=FFF&labelColor=2C2D72)
+![](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=FFF&labelColor=E34F26)
+![](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=FFF&labelColor=1572B6)
 
 </br>
 
@@ -84,7 +86,21 @@ export default quinn;
 ![](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=000&labelColor=FFF)
 ![](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=FFF&labelColor=339933)
 ![](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=FFF&labelColor=06B6D4)
+![](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=FFF&labelColor=7952B3)
 ![](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass&logoColor=FFF&labelColor=CC6699)
+![](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=FFF&labelColor=F05032)
+
+</br>
+
+<table>
+  <tr>
+    <th>&#128448;</th>
+    <th>tailored-stash</th>
+  </tr>
+</table>
+
+![](https://img.shields.io/badge/-VS_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=FFF&labelColor=007ACC)
+![](https://img.shields.io/badge/-Firefox-000?style=for-the-badge&logo=firefoxbrowser&logoColor=FFF&labelColor=FF7139)
 
 </br>
 
