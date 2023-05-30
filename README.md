@@ -95,13 +95,11 @@ export default quinn;
 <table>
   <tr>
     <th>&#128448;</th>
-    <th>tailored-stash</th>
+    <th>lifeblood</th>
   </tr>
 </table>
 
-![](https://img.shields.io/badge/-VS_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=FFF&labelColor=007ACC)
 ![](https://img.shields.io/badge/-Firefox-000?style=for-the-badge&logo=firefoxbrowser&logoColor=FFF&labelColor=FF7139)
-![](https://img.shields.io/badge/-Notepad++-000?style=for-the-badge&logo=notepadplusplus&logoColor=000&labelColor=90E59A)
 
 </br>
 
