@@ -46,7 +46,7 @@ const quinn = {
   pronouns: "He" | "They",
   interests: [Nintendo, GrilledCheese, Development],
   traits: {
-    curios: "Curiosity is always at its strongest.",
+    curious: "Curiosity is always at its strongest.",
     ambitious: "Always in a need to explore, discover, and learn more.",
     perfectionistic: "It's a blessing and a curse."
   }
