@@ -66,10 +66,7 @@ export default quinn;
 
 ![](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=000&labelColor=F7DF1E)
 ![](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=FFF&labelColor=3178C6)
-![](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php&logoColor=FFF&labelColor=777BB4)
 ![](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=FFF&labelColor=4479A1)
-![](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=FFF&labelColor=3776AB)
-![](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua&logoColor=FFF&labelColor=2C2D72)
 ![](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=FFF&labelColor=E34F26)
 ![](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=FFF&labelColor=1572B6)
 
@@ -89,6 +86,20 @@ export default quinn;
 ![](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=FFF&labelColor=7952B3)
 ![](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass&logoColor=FFF&labelColor=CC6699)
 ![](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=FFF&labelColor=F05032)
+
+</br>
+
+<table>
+  <tr>
+    <th>&#128448;</th>
+    <th>learning</th>
+  </tr>
+</table>
+
+![](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=csharp&logoColor=FFF&labelColor=512BD4)
+![](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php&logoColor=FFF&labelColor=777BB4)
+![](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=FFF&labelColor=3776AB)
+![](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua&logoColor=FFF&labelColor=2C2D72)
 
 </br>
 
